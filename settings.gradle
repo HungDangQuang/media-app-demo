@@ -20,6 +20,5 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "MediaDemo"
-include ':mobile'
 include ':automotive'
 include ':shared'
